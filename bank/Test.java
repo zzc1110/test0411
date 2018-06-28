@@ -3,4 +3,7 @@
  */
 public class Test {
     private String string;
+    public static void main(String[] args) {
+        
+    }
 }
